@@ -1,6 +1,6 @@
 # My First Repo
 
-Wellcome to my first GitHub repository!
+Welcome to my first GitHub repository!
 
 This is a simple project to practice using Git and GitHub.
 
